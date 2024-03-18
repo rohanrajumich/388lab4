@@ -2,14 +2,14 @@
 # https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml
 
 [part-1]
-task-1 = 0x0000000000000000
-task-2 = 0x0000000000000000
-task-3 = 0x0000000000000000
+task-1 = 0x0000000000401810
+task-2 = 0x0000000000401745
+task-3 = 0x000000000040b680
 
 [part-2]
-task-4 = 0x00
-task-5 = 0
+task-4 = 0x0000000000401c4a
+task-5 = 0x7fffffffe540
 
 [part-3]
-task-6 = 0x0000000000000000
-task-7 = [0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00]
+task-6 = 0x0000000000454948
+task-7 = [0x48, 0x49, 0x45, 0x00, 0x00, 0x00, 0x00, 0x00]
